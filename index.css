@@ -1,0 +1,44 @@
+body
+  {
+      width:80%;
+      margin-left:auto;
+      margin-right:auto;
+      height: 100%;
+      margin-top: 10%;
+      background-color: hsla(224, 56%, 25%, 1);
+  }
+h1{
+  position: relative;
+  text-align: center;
+  margin-bottom: 5%;
+}
+
+h5{
+  text-align: center;
+  color: white;
+}
+
+p{
+  text-align: center;
+}
+
+.card{
+  background-color: hsla(224, 56%, 57%, 1);
+}
+
+.card p{
+  color: white;
+}
+
+.card-footer{
+  text-align: center;
+}
+
+ul{
+  color: white;
+  
+}
+li{
+  color: white;
+
+}
