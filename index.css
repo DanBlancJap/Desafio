@@ -42,3 +42,11 @@ li{
   color: white;
 
 }
+
+#coso{
+  text-align: center;
+}
+
+#cartelInfo{
+  background-color: hsla(224, 56%, 57%, 1);
+}
